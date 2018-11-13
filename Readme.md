@@ -1,7 +1,7 @@
 ### High Performance Computing
 #### Autumn, 2018
 
-#### Announcements (see [course webpage](https://imperialhpsc.bitbucket.io) for further information)
+#### Announcements (see [course webpage](https://imperialm3c.bitbucket.io) for further information)
 
 * 11/11/18: A correction has been added to homework 2 on the definition of the testing error (see the course webpage).
 
