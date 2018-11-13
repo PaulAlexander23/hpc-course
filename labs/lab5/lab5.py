@@ -12,5 +12,13 @@ I_sim = np.zeros(len(nvalues))
 for i,n in enumerate(nvalues):
     # Compute integrals with n intervals with each method, storing the results
     # in I_mid and I_sim
+    quad.quad_n = n
+    quad.midpoint() 
+    I_mid[i] = quad.quad_sum
+    quad.simpson()
+    I_sim[i] = quad.quad_sum
 
 #Plot errors on log-log plots
+plt.loglog(nvalues, abs(I_mid - np.pi))
+plt.loglog(nvalues, abs(I_sim - np.pi))
+plt.savefig('error.pdf')

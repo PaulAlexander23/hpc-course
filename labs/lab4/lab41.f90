@@ -7,9 +7,12 @@ program task1
     real(kind=8) :: odd_sum
 
     odd_sum = 0.d0
-!Add a do-loop which sums the first N odd integers and prints the result
+    
+    do i1 = 1, N, 2
+        odd_sum = odd_sum + i1
+    end do
 
-
+    print *, 'Sum = ', odd_sum
 end program task1
 
 ! To compile this code:
