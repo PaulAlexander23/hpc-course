@@ -3,6 +3,17 @@
 
 #### Announcements (see [course webpage](https://imperialhpsc.bitbucket.io) for further information)
 
+* 11/11/18: A correction has been added to homework 2 on the definition of the testing error (see the course webpage).
+
+* 11/11/18: Lab 5 solution codes have been added to the course repo; Homework 1 solutions have been
+posted on the course webpage.
+
+* 8/11/18: Please take a few minutes and complete the short, anonymous feedback form [here:](https://goo.gl/forms/q0Vq81pu1tbZCNlf1)
+
+* 8/11/18: The MLC machines now have an "Ubuntu Maths Linux" VM available via the Software Hub. This should be more stable and a little faster than the old VM. We are still waiting for a much faster VM to be installed in Huxley 408 and 410.
+
+* 6/11/18: Homework 2 is online and can be found via the course webpage
+
 * 23/10/18: Homework 1 is online and can be found via the course webpage
 
 * 22/10/18: The posted coursework dates for M3C contained a few mistakes which have now been corrected: 1) The first coursework goes out tomorrow afternoon (Tuesday, 23/10)  and is due Friday, 2/11 (originally, this was 22/10-1/11). 2) Similar small adjustments have been made to the dates for the other assignments, the final correct dates are on the course webpage:  https://imperialm3c.bitbucket.io/assessment.html
