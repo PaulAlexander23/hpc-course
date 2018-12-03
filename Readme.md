@@ -3,6 +3,13 @@
 
 #### Announcements (see [course webpage](https://imperialm3c.bitbucket.io) for further information)
 
+* 30/11/18: The final project is now online.
+
+* 25/11/18: The solution code for lab 7 has been added to the course repo, and HW2 solutions have been posted online
+along with supplementary material for MPI.
+
+* 20/11/18: Homework 3 is online and can be found via the course webpage.
+
 * 11/11/18: A correction has been added to homework 2 on the definition of the testing error (see the course webpage).
 
 * 11/11/18: Lab 5 solution codes have been added to the course repo; Homework 1 solutions have been
