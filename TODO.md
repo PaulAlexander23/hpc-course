@@ -1,0 +1,14 @@
+## Tasks
+- [ ] Complete lab 2.
+- [ ] Complete lab 3.
+- [ ] Complete homework 1.
+- [ ] Complete lab 4.
+- [ ] Complete lab 5.
+- [ ] Complete lab 6.
+- [ ] Complete homework 2.
+- [ ] Complete lab 7.
+- [ ] Complete lab 8.
+- [ ] Complete lab 9.
+- [ ] Complete homework 3.
+- [ ] Complete the project.
+- [x] Read up to lecture 19.
