@@ -12,3 +12,4 @@
 - [ ] Complete homework 3.
 - [ ] Complete the project.
 - [x] Read up to lecture 19.
+- [x] Read lecture 20.
