@@ -3,6 +3,10 @@
 
 #### Announcements (see [course webpage](https://imperialm3c.bitbucket.io) for further information)
 
+* 10/12/18: A clarification has been added for the project: In question 2.4, the bounds for theta* are the same as for theta
+
+* 9/12/18: Solutions for hw3 and lab 8 (part 1) have been posted
+
 * 6/12/18: A typo has been fixed in the "white update" equation for the AOS method in the notes on iterative methods.
 This is needed for part 3 of the project.
 
