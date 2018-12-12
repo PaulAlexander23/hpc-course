@@ -1,4 +1,4 @@
-## Tasks
+## Tasks:
 - [ ] Complete lab 2.
 - [ ] Complete lab 3.
 - [ ] Complete homework 1.
